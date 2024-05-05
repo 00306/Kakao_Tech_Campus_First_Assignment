@@ -1,3 +1,5 @@
+/* COMMON */
+
 body {
   margin: 0;
   padding: 0;
@@ -7,6 +9,8 @@ body {
 #app {
   margin: 50px;
 }
+
+/* TITLESCREEN */
 
 .titleScreen {
   position: absolute;
@@ -83,6 +87,8 @@ body {
   color: #f1535a;
 }
 
+/* RESULT */
+
 .result {
   min-height: 150px;
 }
@@ -94,6 +100,8 @@ body {
 .result .result__restartMessage {
   margin-bottom: 24px;
 }
+
+/* LOG */
 
 .log {
   width: 500px;
